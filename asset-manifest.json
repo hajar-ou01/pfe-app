@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pfe-app/static/css/main.f833fe2f.css",
+    "main.js": "/pfe-app/static/js/main.ab9dbeb0.js",
+    "static/media/video2.mp4": "/pfe-app/static/media/video2.2b1fbb665ebde605b1f0.mp4",
+    "static/media/Video.mp4": "/pfe-app/static/media/Video.9c4aa191618b5d34b2a5.mp4",
+    "static/media/img6.jpg": "/pfe-app/static/media/img6.10890a28c24dc869588c.jpg",
+    "static/media/img2.jpg": "/pfe-app/static/media/img2.7a1a5c63b6d83962e644.jpg",
+    "static/media/img3.jpg": "/pfe-app/static/media/img3.7db0b75cfaeb68152106.jpg",
+    "static/media/img4.jpg": "/pfe-app/static/media/img4.08908bf392342a8b859e.jpg",
+    "static/media/img7.jpg": "/pfe-app/static/media/img7.6e28a4f6e2f060ebe8cf.jpg",
+    "static/media/img5.jpg": "/pfe-app/static/media/img5.63fe3345cd01d42942b5.jpg",
+    "static/media/img1.jpg": "/pfe-app/static/media/img1.a4c2fd2e7a02e5f2098e.jpg",
+    "static/media/img0.jpg": "/pfe-app/static/media/img0.51abc5455da90abd6361.jpg",
+    "index.html": "/pfe-app/index.html",
+    "main.f833fe2f.css.map": "/pfe-app/static/css/main.f833fe2f.css.map",
+    "main.ab9dbeb0.js.map": "/pfe-app/static/js/main.ab9dbeb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f833fe2f.css",
+    "static/js/main.ab9dbeb0.js"
+  ]
+}
